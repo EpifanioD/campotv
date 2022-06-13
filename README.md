@@ -14,7 +14,7 @@ Projeto de um micro gerenciador de notícias, onde o usuário final pode visuali
 ## 🛠️ Abrir e rodar o projeto
 
 - `1° Passo`: Crie um banco de dados com nome "campotv";
-- `2° Passo`: Utilizei o WampServer para a conexão com o banco, senha de acesso padrao : usuario: root; senha = '';
+- `2° Passo`: Utilizei o WampServer para a conexão com o banco, senha de acesso padrao : usuario = root; senha = ' ';
 - `3° Passo`: Criar a tabela como o exemplo a seguir:
 
 <br>
