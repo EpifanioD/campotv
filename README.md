@@ -5,7 +5,7 @@
 </p>
 
 # Resumo do projeto
-Projeto de um micro gerenciador de notícias, onde o usuário final pode visualizar, editar, apagar, inserir notícios de texto aceitando uma foto referente a notícia. Onde por sua vez ele dá a opção de exportar um arquivo Json ou XML das 3 últimas notícias.
+Projeto de um micro gerenciador de notícias, onde o usuário final pode visualizar, editar, apagar, inserir notícias de texto aceitando uma foto referente a notícia. Onde por sua vez ele dá a opção de exportar um arquivo Json ou XML das 3 últimas notícias.
 
 <h4 align="center"> 
     :construction:  Instalação!  :construction:
