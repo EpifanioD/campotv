@@ -29,7 +29,7 @@ Projeto de um micro gerenciador de notícias, onde o usuário final pode visuali
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-- ``PHP 8``
+- ``PHP 5.7``
 - ``Axios``
 - ``Paradigma de orientação a objetos``
 - ``Vuejs``
